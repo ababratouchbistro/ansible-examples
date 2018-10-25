@@ -11,7 +11,6 @@
     - php-mysql
     - php-PHPMailer
     - php-process
-    - php-simplepie
     - php-xml
 
 - name: Disable default pool
