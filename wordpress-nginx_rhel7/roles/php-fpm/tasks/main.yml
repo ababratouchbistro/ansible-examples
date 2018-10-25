@@ -3,6 +3,7 @@
   yum: name={{ item }} state=present
   with_items:
     - php
+    - php-common
     - php-fpm
     - php-enchant
     - php-IDNA_Convert
